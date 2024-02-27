@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherDiary</string>
+    <string name="weather">날씨</string>
+</resources>
